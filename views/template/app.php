@@ -40,7 +40,7 @@
                 <nav class="flex-1">
                     <ul class="flex justify-center items-center space-x-4 font-bold">
                         <li><a href="/" class="text-lime-500">Explorar</a></li>
-                        <li><a href="/books.php" class="hover:underline">Meus Livros</a></li>
+                        <li><a href="/my-books" class="hover:underline">Meus Livros</a></li>
                     </ul>
                 </nav>
                 <div>
